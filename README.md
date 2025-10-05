@@ -1,4 +1,5 @@
-##👋Hi there
+<h1>👋Hi there</h1>
+<p>I am a student of information technology. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/šimon ambros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="šimon ambros" height="30" width="40" /></a>
