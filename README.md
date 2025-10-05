@@ -1,6 +1,11 @@
 <h1>👋Hi there</h1>
+<h2>Who I Am?</h2>
 <ul>
-  <li><p>I am a student of information technology. </p></li>
+  <li><p>👨‍🎓I am a student of information technology. </p></li>
+  <li><p>💻Right now I am trying learn a Fullstack development </p></li>
+  <li><p>🧠I have been programming for three years.</p></li>
+  <li><p>🎸Else I love Rock music, especialy British</p></li>
+  <li><p>🥁And I play on drums in band with my friends</p></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
